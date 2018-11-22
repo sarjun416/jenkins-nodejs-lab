@@ -1,6 +1,6 @@
 {
   "name": "jenkins-nodejs-lab",
-  "description": "hello jenkins test app",
+  "description": "This is second build",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
