@@ -1,5 +1,6 @@
 #!/bin/sh
 
+echo "hello from production"
 ssh app@54.90.224.202 <<EOF
   cd ~/jenkins-nodejs-lab
   git pull
