@@ -1,7 +1,7 @@
 #!/bin/sh
-echo "We had buffet today"
+
 echo "hello from production"
-ssh app@54.90.224.202 <<EOF
+ssh app@54.85.52.35 <<EOF
   cd ~/jenkins-nodejs-lab
   git pull
   npm install
